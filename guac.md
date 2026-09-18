@@ -4,4 +4,4 @@
 *lime
 *salt
 ### Instructions
-mash up avocados
+* add avocadoes to bowl
